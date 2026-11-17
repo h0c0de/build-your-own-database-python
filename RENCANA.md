@@ -57,4 +57,4 @@ yang dibedah, jadi irisan di sini mengikuti lapisannya:
 - [x] `db[k]=v; db.commit()` bertahan melewati buka-ulang dan
       kematian proses, terverifikasi diferensial vs dict.
 - [x] `CATATAN.md` satu halaman per irisan: konsep inti + temuan.
-- [ ] Repo GitHub publik `build-your-own-database-python` terbit & terverifikasi.
+- [x] Repo GitHub publik `build-your-own-database-python` terbit & terverifikasi.
